@@ -9,7 +9,3 @@
     }
   ]
 }
-{
-  "name": "Basic Dev Environment",
-  "image": "mcr.microsoft.com/devcontainers/base:debian"
-}
